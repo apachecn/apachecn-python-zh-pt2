@@ -8,6 +8,19 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
+## 目录
+
++   [Python 应用计算思维](docs/app-comp-think-py/SUMMARY.md)
++   [Python 代码整洁之道](docs/clean-code-py/SUMMARY.md)
++   [Python 函数式编程](docs/func-py-prog/SUMMARY.md)
++   [Python 区块链开发实用指南](docs/handson-bc-py-dev/SUMMARY.md)
++   [Python MQTT 编程实用指南](docs/handson-mqtt-prog-py/SUMMARY.md)
++   [Python 软件工程实用指南](docs/handson-soft-engineer-py/SUMMARY.md)
++   [Python 编程学习手册](docs/learn-py-prog/SUMMARY.md)
++   [Python3 面向对象编程](docs/py3-oop/SUMMARY.md)
++   [Python 学徒](docs/py-apprentice/SUMMARY.md)
++   [Python 软件架构](docs/soft-arch-py/SUMMARY.md)
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
