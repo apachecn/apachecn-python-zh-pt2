@@ -20,6 +20,12 @@
 +   [Python3 面向对象编程](docs/py3-oop/SUMMARY.md)
 +   [Python 学徒](docs/py-apprentice/SUMMARY.md)
 +   [Python 软件架构](docs/soft-arch-py/SUMMARY.md)
++   [Python 企业级应用开发实用指南](docs/handson-enter-app-dev-py/SUMMARY.md)
++   [Python Web 爬虫实用指南](docs/handson-web-scrape-py/SUMMARY.md)
++   [精通 Python 并发](docs/master-concur-py/SUMMARY.md)
++   [精通 Python 面向对象](docs/master-oo-py/SUMMARY.md)
++   [MicroPython 秘籍](docs/micropy-cb/SUMMARY.md)
++   [Python 物联网编程实践](docs/prac-py-prog-iot/SUMMARY.md)
 
 ## 贡献指南
 
