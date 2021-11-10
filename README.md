@@ -26,6 +26,11 @@
 +   [精通 Python 面向对象](docs/master-oo-py/SUMMARY.md)
 +   [MicroPython 秘籍](docs/micropy-cb/SUMMARY.md)
 +   [Python 物联网编程实践](docs/prac-py-prog-iot/SUMMARY.md)
++   [Python 专家级编程](docs/expert-py-prog/SUMMARY.md)
++   [精通 Python](docs/master-py/SUMMARY.md)
++   [精通 Python 正则表达式](docs/master-py-re/SUMMARY.md)
++   [Python 模块化编程](docs/mod-prog-py/SUMMARY.md)
++   [Python 测试秘籍](docs/pt-test-cb/SUMMARY.md)
 
 ## 贡献指南
 
